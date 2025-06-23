@@ -15,9 +15,6 @@
 
 <hr>
 
-<!-- Adiciona imagens abaixo -->
-
 <p align="center">
-  <img src="https://github.com/daviixs/Projeto-Associa-o-S-Patinhas-de-Rua/blob/main/images/picture.png)?raw=true" width="400" />
-  <img src="https://github.com/seunome/repositorio/blob/main/imagens/foto2.png?raw=true" width="400" />
+  <img src="https://github.com/daviixs/Projeto-Associa-o-S-Patinhas-de-Rua/blob/main/images/picture.png?raw=true" width="1296" height="500"/>
 </p>
