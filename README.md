@@ -22,7 +22,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/daviixs/Projeto-Associa-o-S-Patinhas-de-Rua/blob/main/images/picture.png?raw=true" width="1296" height="500"/>
+  <img src="https://github.com/daviixs/Projeto-Associa-o-S-Patinhas-de-Rua/blob/main/images/picture.png?raw=true" alt="Preview da Landing Page Só Patinhas de Rua" style="max-width: 100%; height: auto;" />
 </p>
 <h3 align="center">🎯 Objetivos da Landing Page</h3>
 
