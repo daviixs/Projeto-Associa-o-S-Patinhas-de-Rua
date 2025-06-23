@@ -1,5 +1,4 @@
 <h1 align="center">Só Patinhas de Rua</h1>
-<h2 align="center">Landing Page</h2>
 
 <p align="center">
   Este projeto foi desenvolvido em colaboração com a ONG Associação Só Patinhas de Rua, uma organização sem fins lucrativos que atua no resgate, cuidado e adoção de animais em situação de rua.
