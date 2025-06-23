@@ -1,6 +1,13 @@
 <h1 align="center">Só Patinhas de Rua</h1>
 
 <p align="center">
+  <a href="https://daviixs.github.io/Projeto-Associa-o-S-Patinhas-de-Rua/" target="_blank">
+    🔗 <strong>Visite o site</strong>
+  </a>
+</p>
+
+
+<p align="center">
   Este projeto foi desenvolvido em colaboração com a ONG Associação Só Patinhas de Rua, uma organização sem fins lucrativos que atua no resgate, cuidado e adoção de animais em situação de rua.
 </p>
 
@@ -31,3 +38,11 @@
   <li><strong>Modernizar a presença digital da ONG:</strong> construir uma presença online sólida e confiável, transmitindo profissionalismo e confiança aos visitantes.</li>
   <li><strong>Exercitar e aplicar conhecimentos técnicos:</strong> possibilitar a aplicação prática de HTML, CSS e JavaScript em um projeto real com impacto social, promovendo o aprendizado em equipe.</li>
 </ul>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills" />
+  </a>
+</p>
+
+
