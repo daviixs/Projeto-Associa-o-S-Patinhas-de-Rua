@@ -18,3 +18,17 @@
 <p align="center">
   <img src="https://github.com/daviixs/Projeto-Associa-o-S-Patinhas-de-Rua/blob/main/images/picture.png?raw=true" width="1296" height="500"/>
 </p>
+<h3 align="center">🎯 Objetivos da Landing Page</h3>
+
+<p align="center">
+  A Landing Page do projeto <strong>Só Patinhas de Rua</strong> foi criada com os seguintes objetivos principais:
+</p>
+
+<ul>
+  <li><strong>Dar visibilidade à ONG:</strong> apresentar o trabalho da Associação Só Patinhas de Rua, seus valores e missão, aumentando a conscientização sobre a causa animal.</li>
+  <li><strong>Facilitar o contato com o público:</strong> oferecer formas de contato rápido e intuitivo para interessados em <em>adotar</em>, <em>doar</em> ou <em>se voluntariar</em>.</li>
+  <li><strong>Divulgar campanhas e ações:</strong> permitir que a ONG compartilhe campanhas de adoção, mutirões, eventos e outras iniciativas com a comunidade.</li>
+  <li><strong>Promover a adoção responsável:</strong> conscientizar sobre a importância da adoção responsável, mostrando os animais disponíveis e incentivando atitudes conscientes.</li>
+  <li><strong>Modernizar a presença digital da ONG:</strong> construir uma presença online sólida e confiável, transmitindo profissionalismo e confiança aos visitantes.</li>
+  <li><strong>Exercitar e aplicar conhecimentos técnicos:</strong> possibilitar a aplicação prática de HTML, CSS e JavaScript em um projeto real com impacto social, promovendo o aprendizado em equipe.</li>
+</ul>
